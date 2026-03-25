@@ -1,0 +1,54 @@
+# Build directories (contain large files)
+build/
+dist/
+release/
+installer/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+
+# Large binary files
+*.exe
+*.zip
+*.pkg
+*.msi
+*.dmg
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+data/logs/
+
+# User data (don't track user's prompts)
+data/prompts.json
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# PyInstaller
+*.manifest
+*.spec.bak
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
