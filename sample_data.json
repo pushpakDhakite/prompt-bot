@@ -1,0 +1,27 @@
+{
+  "company": "TechCorp Inc.",
+  "employees": [
+    {
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "salary": 90000
+    },
+    {
+      "name": "Jane Smith",
+      "position": "Product Manager",
+      "salary": 95000
+    },
+    {
+      "name": "Bob Johnson",
+      "position": "Designer",
+      "salary": 85000
+    }
+  ],
+  "departments": [
+    "Engineering",
+    "Product",
+    "Design"
+  ],
+  "founded": 2020,
+  "location": "San Francisco"
+}

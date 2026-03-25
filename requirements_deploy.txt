@@ -1,0 +1,31 @@
+# AI Prompt Generator Pro - Deployment Requirements
+# Pinned versions for reproducible builds
+
+# GUI Framework
+PyQt6==6.10.2
+PyQt6-Qt6==6.10.2
+PyQt6-sip==13.11.1
+
+# PDF Processing
+PyPDF2==3.0.1
+
+# Data Processing
+pandas==3.0.1
+numpy==2.4.3
+python-dateutil==2.9.0
+pytz==2025.3
+six==1.17.0
+
+# Build Tools
+pyinstaller==6.14.1
+
+# Optional: Enhanced Features
+# opencv-python==4.11.0.86  # For image processing
+# pytesseract==0.3.13      # For OCR
+# beautifulsoup4==4.13.4   # For web scraping
+# requests==2.32.3         # For API calls
+
+# Development Tools (not included in production)
+# pytest==8.3.5
+# black==25.1.0
+# flake8==7.2.0

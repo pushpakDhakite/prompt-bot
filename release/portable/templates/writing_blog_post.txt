@@ -1,0 +1,13 @@
+# Blog Post Writing Template
+
+Generate a comprehensive blog post about {topic} that is {tone} and targeted at {audience}. 
+The post should be approximately {length} words long and include:
+- An engaging introduction that hooks the reader
+- {num_sections} main sections with descriptive headings
+- Practical examples or case studies
+- Actionable takeaways for the reader
+- A compelling conclusion that encourages engagement
+- SEO-friendly elements including suggested keywords: {keywords}
+
+Additional requirements:
+{additional_instructions}
